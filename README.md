@@ -1,2 +1,2 @@
 # copa-do-mundo
-site sobre copa do mundo
+site sobre a Seleção Brasileira
